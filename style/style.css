@@ -37,3 +37,17 @@ ul{
     color: white;
     font-size: 30px;
 }
+.header__content{
+    background: rgb(84, 9, 79);
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+.header__content-title,
+.header__content-text {
+    color: white;
+    font-size: 40px;
+}
